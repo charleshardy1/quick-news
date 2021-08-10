@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 474,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Ben Graham",
+            "title": "Live Breaking News: Dan's ambitious target that will end lockdown",
+            "description": "Welcome to our live coverage of the coronavirus situation in Victoria.",
+            "url": "https://www.news.com.au/national/breaking-news/live-breaking-news-victoria-covid-lockdown-and-melbourne-case-numbers/live-coverage/c50711ebf637c1b2d9d816fa13ca71d3",
+            "urlToImage": null,
+            "publishedAt": "2021-08-10T06:17:24Z",
+            "content": "Welcome to our live coverage of the coronavirus situation in Victoria.The state premier Daniel Andrews has revealed what it will take to get Melbourne out of lockdown, and it won’t be easy.\r\nAs the r… [+3077 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "[{\"@type\":\"Person\",\"name\":\"Hannah Loewentheil\",\"url\":\"https://www.buzzfeed.com/hannahloewentheil\",\"jobTitle\":\"BuzzFeed Staff\"}]",
+            "title": "People Are Sharing The Small (But Incredibly Useful) Tips That Improved Their Cooking, And They're Worth Memorizing",
+            "description": "These are seriously useful.",
+            "url": "https://www.buzzfeed.com/hannahloewentheil/beginner-tips-for-home-cooks",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-08/6/18/enhanced/feaa33640da7/original-2073-1628273758-11.jpg?crop=1581:830;0,0%26downsize=1250:*",
+            "publishedAt": "2021-08-09T21:37:28.4345779Z",
+            "content": "Hannah Loewentheil / BuzzFeed\r\n\"Load your fridge and pantry with ingredients that last, such as eggs, tortillas, pasta, rice, flour, sugar, canned tomato, tuna fish, cheese, bouillon, cabbage, carrot… [+142 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "[{\"@type\":\"Person\",\"name\":\"Kristen Harris\",\"url\":\"https://www.buzzfeed.com/kristenharris1\",\"jobTitle\":\"BuzzFeed Staff\"}]",
+            "title": "18 Times Designers Refused To Dress Celebrities, And The Celebrities Called Them Out",
+            "description": "\"I'm not my body. I'm a whole person.\" —Gabourey Sidibe",
+            "url": "https://www.buzzfeed.com/kristenharris1/celebrities-called-out-designers",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-08/5/18/enhanced/6c37412673d4/original-411-1628188841-2.jpg?crop=1244:651;0,4%26downsize=1250:*",
+            "publishedAt": "2021-08-09T21:37:22.1705129Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "American travel blogger Kaitlyn McCaffery left in coma after scooter crash in Bali",
+            "description": "A California travel blogger has been left in a coma with a traumatic brain injury after a scooter crash in Bali — and her family is now seeking donations to fly her back to the US.",
+            "url": "https://www.foxnews.com/world/american-travel-blogger-kaitlyn-mccaffery-coma-scooter-crash-bali",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/iStock-1023100154.jpg",
+            "publishedAt": "2021-08-09T21:37:21.6550162Z",
+            "content": "A Californiatravel blogger has been left in a coma with a traumatic brain injury after a scooter crash in Bali and her family is now seeking donations to fly her back to the US.\r\nKaitlyn McCaffery, o… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "carolin carolin",
+            "title": "Bloomingdale's Shop For Good Sale brings you deals on Hugo, Voluspa",
+            "description": "Find deals on Voluspa candles, Hugo and more at the Bloomingdale's Shop For Good Sale​",
+            "url": "https://www.cbsnews.com/essentials/bloomingdales-sale-shop-for-good-deals/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/08/03/bdbf5a8e-e138-4fe0-a0e1-2eb84d99a754/thumbnail/1200x630/16ff16d077426dd6946902646ca05cc9/gettyimages-1228023518.jpg",
+            "publishedAt": "2021-08-09T21:35:41+00:00",
+            "content": "AaronP/Bauer-Griffin\r\nThe Bloomingdale's Shop For Good Sale is here, with $25 off every $125 you spend on a large selection of items both online and in stores. Men's, women's, kids' and home items ar… [+1033 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "London's Tower Bridge stuck open due to technical fault for second time in a year",
+            "description": "A technical fault causes the 127-year-old drawbridge to jam in an open position, snarling traffic on both sides of the River Thames.",
+            "url": "http://www.abc.net.au/news/2021-08-10/london-tower-bridge-stuck/100363610",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/de5b74baf6c0c441b5e9c5487ce298db?impolicy=wcms_crop_resize&cropH=2576&cropW=4579&xPos=0&yPos=112&width=862&height=485",
+            "publishedAt": "2021-08-09T21:30:44Z",
+            "content": "London's famous Tower Bridge has become stuck in its open position for the second time in a year, snarling traffic on both sides of the River Thames.\r\n<ul><li>The bridge was stuck in its open positio… [+1449 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Richard Henderson, William McInnes, Alex Gluyas, Tom Richardson, Vesna Poljak",
+            "title": "ASX to rise after flat Monday",
+            "description": "Futures point to gains for Australian blue chips; Wall Street closes with muted gain; oil price falls to three-week low.",
+            "url": "http://www.afr.com/markets/equity-markets/asx-to-rise-after-flat-monday-20210810-p58hdn",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/ec0a44dd7b542458e6752b82a39faee27138eccf",
+            "publishedAt": "2021-08-09T21:30:22Z",
+            "content": "Australian shares are set to open higher even with Wall Street trading mixed to start its week. Oil and gold were lower amid concerns about the delta variant.\r\nASX futures were up 25 points or 0.3 pe… [+939 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Georgie Hewson",
+            "title": "Census 2021 leaves LGBTIQA+ community feeling 'erased' after questions left out",
+            "description": "Members of the LGBTIQA+ community are worried about what the lack of questions on sexuality and gender in this year's census will mean for services informed by data.",
+            "url": "http://www.abc.net.au/news/2021-08-10/lgbtiq-census-erasure/100362094",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dea2d7e46cb093091972e0731369dc4c?impolicy=wcms_crop_resize&cropH=1834&cropW=3260&xPos=0&yPos=231&width=862&height=485",
+            "publishedAt": "2021-08-09T21:26:40Z",
+            "content": "Tonight millions of people will sit down for Australia's largest survey, but many won't be able to find a box to tick to accurately say who they are.\r\nToowoomba's Nathan Anastasi says discrimination … [+3938 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Matilda Marozzi",
+            "title": "Long-term hospitality workers victims of unpaid superannuation",
+            "description": "Hospitality workers say failure to pay superannuation is widespread in the industry and will have \"devastating\" consequences in retirement.",
+            "url": "http://www.abc.net.au/news/2021-08-10/hospitality-workers-worried-about-unpaid-superannuation/100349406",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/384f85625157991deb78bc5bcdcba477?impolicy=wcms_crop_resize&cropH=2159&cropW=3838&xPos=2&yPos=120&width=862&height=485",
+            "publishedAt": "2021-08-09T21:24:13Z",
+            "content": "When Annie Stephenson consolidated her superannuation in March 2020 she was shocked.\r\nAfter working various hospitality jobs for a decade, she had less than $1,200 in superannuation.\r\n\"Friends my age… [+7147 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "Google’s new Titan security key lineup won’t make you choose between USB-C and NFC",
+            "description": "Google is updating its lineup of Titan security keys, introducing an updated USB-C model that includes NFC. Starting on August 10th, Google will only sell two keys, as it’s discontinuing the Bluetooth model.",
+            "url": "https://www.theverge.com/2021/8/9/22617183/google-usb-c-titan-security-lineup-nfc-password-protection",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XQoYbNqeeC9lzCSncnqSIaqpqLU=/158x0:1442x672/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22772039/Copy_of_0204_0099__Titan_Main_KEY_v07_SIMP.png",
+            "publishedAt": "2021-08-09T21:24:04Z",
+            "content": "Fewer decisions to make, and one less model \r\nImage: Google\r\nGoogle announced updates to its Titan security key lineup on Monday, simplifying it by removing a product and bringing NFC to all its keys… [+2721 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "JoJo’s Bizarre Adventure Stone Ocean will premiere on Netflix in December",
+            "description": "JoJo’s Bizarre Adventure Stone Ocean, the next season of the hit anime, will premiere exclusively on Netflix in December 2021. Netflix has also released a wild-looking new trailer for the show.",
+            "url": "https://www.theverge.com/2021/8/9/22617292/netflix-jojos-bizarre-adventure-stone-ocean-december-trailer",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_iBZnBeLZghUP4IyF0nYS2P53Ig=/32x0:1468x752/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22772211/Screen_Shot_2021_08_09_at_1.38.55_PM.png",
+            "publishedAt": "2021-08-09T21:23:15Z",
+            "content": "Netflix has released a wild-looking trailer"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": "sdushantha",
+            "title": "GitHub - sdushantha/snaprecovery: Recover old Snaps that have “disappeared” from Snapchat",
+            "description": "Recover old Snaps that have “disappeared” from Snapchat - GitHub - sdushantha/snaprecovery: Recover old Snaps that have “disappeared” from Snapchat",
+            "url": "https://github.com/sdushantha/snaprecovery",
+            "urlToImage": "https://opengraph.githubassets.com/74823116d00b201502c248bf6dfcc551f25c5b7cfc9228649dbfea2b6847f4a1/sdushantha/snaprecovery",
+            "publishedAt": "2021-08-09T21:22:24.9740853Z",
+            "content": "Recover old Snaps that have disappeared from Snapchat\r\nThis script only works for rooted Android devices! \r\nDependencies\r\nThis script was tested on an Android device running Android 10 with LinageOS … [+2369 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Analysis of ongoing impeachment investigation into Governor Andrew Cuomo",
+            "description": "New York Governor Andrew Cuomo's political future is on the line as the State Assembly intensifies its impeachment investigation. Lawmakers are holding a closed-door hearing after several women accused Cuomo of sexual harassment, groping and non-consensual to…",
+            "url": "https://www.cbsnews.com/video/analysis-of-ongoing-impeachment-investigation-into-governor-andrew-cuomo/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/08/09/b85ddf3a-9cba-4297-84d4-2fa4763bf93f/thumbnail/1200x630/c0bae81d032de6e7966c7ec6de8f82a1/cbsn-fusion-analysis-of-ongoing-impeachment-investigation-into-governor-andrew-cuomo-thumbnail-768667-640x360.jpg",
+            "publishedAt": "2021-08-09T21:21:36+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2021 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": null,
+            "title": "Agrar: Bayer verliert weiteres US-Glyphosat-Verfahren in Berufung",
+            "description": null,
+            "url": "https://www.zeit.de/news/2021-08/09/bayer-verliert-weiteres-us-glyphosat-verfahren-in-berufung",
+            "urlToImage": null,
+            "publishedAt": "2021-08-09T21:20:00+00:00",
+            "content": "When browsing with ads:\r\nWe collect personal data and also transmit it to third-party providers\r\n that help us improve and finance our digital content. Some of the information stored on your device, … [+732 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Alexis Moran",
+            "title": "COVID live updates: More Olympic athletes touch down to begin 14 days of mandatory quarantine",
+            "description": "Off the podium and into hotel quarantine — dozens more Australian Olympians are back home and starting 14 days of mandatory quarantine. Follow live.",
+            "url": "http://www.abc.net.au/news/2021-08-10/coronavirus-covid-19-live-blog-byron-sydney-lockdown-olympians/100363380",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/aa2bfabc98392c5cf38094da5df4bda7?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=94&width=862&height=485",
+            "publishedAt": "2021-08-09T21:19:36Z",
+            "content": "Hello!\r\nGood morning, and welcome to another ABC News coronavirus live blog.   \r\nIt's good to have your company. Strap yourselves in for another big day of COVID-19 updates!"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Broede Carmody",
+            "title": "Australia news LIVE: COVID-19 cases continue to grow in NSW, Victoria and Queensland",
+            "description": "Residents who live in and around Byron Bay are in lockdown, Victoria’s restrictions have eased for the regions and all eyes are on the Queensland-NSW border.",
+            "url": "https://www.smh.com.au/national/australia-news-live-covid-19-cases-continue-to-grow-in-nsw-victoria-and-queensland-20210809-p58h9d.html",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/q_86%2Cf_auto/t_smh_live_no_age_social_wm/60011ded80c8bbafdbcea296654390a905bd02ff",
+            "publishedAt": "2021-08-09T21:18:30+00:00",
+            "content": "Victorian health authorities have listed nine new exposure sites since 9.55pm last night, including a shopping centre in Melbournes north west.\r\nThe Watergardens Town Centre, also known as the Waterg… [+1111 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC",
+            "title": "The 5 best menstrual cups in 2021 and how to use them",
+            "description": "What is a menstrual cup? Experts explain how they work and review the 5 best menstrual cups from Flex Cup, Cora Cup, Diva Cup, MeLuna and Lena Cup.",
+            "url": "https://www.nbcnews.com/shopping/wellness/best-menstrual-cups-n1276339",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_32/3497783/210809-menstrual-cups-bd-2x1.jpg",
+            "publishedAt": "2021-08-09T21:17:18Z",
+            "content": "Period products have come a long way in the past century or so. Today, those who menstruate can choose from alternatives like period underwear, reusable cloth pads and menstrual cups, depending on th… [+11389 chars]"
+        },
+        {
+            "source": {
+                "id": "la-nacion",
+                "name": "La Nacion"
+            },
+            "author": null,
+            "title": "Victorias y derrotas, la pelea con Cristina y la reconciliación: el derrotero de Jorge Taiana",
+            "description": "Once años después de su sonora renuncia a la Cancillería, enfrentado con Julio De Vido, el actual senador nacional regresa a la Casa Rosada para reemplazar a Agustín Rossi - LA NACION",
+            "url": "http://www.lanacion.com.ar/politica/victorias-y-derrotas-la-pelea-con-cristina-y-la-reconciliacion-el-derrotero-de-jorge-taiana-nid09082021/",
+            "urlToImage": "https://resizer.glanacion.com/resizer/u12TWPfdbBiVA3kgvGgIFvSuhH8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/5KAYIQZZVZHXNAD56RSPQAA254.jpg",
+            "publishedAt": "2021-08-09T21:13:21.79Z",
+            "content": "El 18 de junio de 2010, Aníbal Fernández, entonces jefe de Gabinete de Cristina Kirchner, anunció que a las 16 daría un informe a la prensa. Un clima enrarecido atravesaba los pasillos de la Casa Ros… [+4141 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Ivana Saric",
+            "title": "In photos: Fires rage across the world as new report warns of escalating climate change",
+            "description": "Wildfires are currently devastating large swaths of the U.S., Russia, and the Mediterranean, and the fire season is far from over.",
+            "url": "https://www.axios.com/global-wildfires-photos-d9363b70-02be-428a-a1d4-b4134467d0cf.html",
+            "urlToImage": "https://images.axios.com/7WXz3UxL6_xQ-aOwXVnLB5Y5Svc=/0x0:4500x2531/1366x768/2021/08/09/1628541899697.jpg",
+            "publishedAt": "2021-08-09T21:10:59Z",
+            "content": "As a new UN-sponsored climate report warned Monday of the \"unequivocal\" connection between human-caused global warming and extreme weather and climate events, massive wildfires burned across the worl… [+2482 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Catie Keck",
+            "title": "Sony completes acquisition of Crunchyroll from AT&T",
+            "description": "Following the news that Sony was set to buy AT&T’s anime streaming service Crunchyroll, the completed acquisition brings together two powerhouse anime streaming services. Sony’s deal to acquire Crunchyroll was first announced in December 2020 and is valued at…",
+            "url": "https://www.theverge.com/2021/8/9/22617356/sony-crunchyroll-att-funimation-acquisition",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/git_k6Aemx1QmQ8h2s9pWDYrFZk=/0x21:1127x611/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19743194/CROriginals_16x9.png",
+            "publishedAt": "2021-08-09T21:10:06Z",
+            "content": "Funimation and Crunchyroll are now one business\r\nSony officially owns AT&amp;Ts Crunchyroll.\r\nSonys deal to acquire Crunchyroll was first announced in December 2020 and sees Crunchyroll join Funimati… [+1141 chars]"
+        }
+    ]
+}
