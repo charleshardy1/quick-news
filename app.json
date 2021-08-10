@@ -3,10 +3,11 @@
     "name": "UST-quick-news",
     "slug": "UST-quick-news",
     "version": "1.0.0",
+    "scheme": "myapp",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/news-icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/news-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -26,7 +27,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/news-icon.png"
     }
   }
 }
